@@ -1,2 +1,2 @@
-# phpunit-phppuro
-Estudos com testes unitários
+# Estudo com PHPunit - PHP puro
+Estudos com testes unitários...
