@@ -1,5 +1,6 @@
-*
+/*
 !src
+!src/Classes
 !tests
 !.gitignore
 !composer.json
