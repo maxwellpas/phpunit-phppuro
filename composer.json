@@ -1,0 +1,17 @@
+{
+    "name": "maxwell/classes-tdd",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Maxwell Pereira",
+            "email": "maxwell.pereira@sympla.com.br"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload":{
+    	"psr-4": {
+    		"ClassesTdd\\": "src"    	}
+    }
+}
